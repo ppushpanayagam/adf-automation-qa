@@ -1,0 +1,12 @@
+{
+    "Settings_Page_Url":"http://qaexercise.envalfresco.com/settings",
+    "Files_Page_Url":"http://qaexercise.envalfresco.com/files",
+
+    "Provider_As_ECM":"ECM",
+    "User_Name": "guest@example.com",
+    "Password": "Password",
+
+    "Folder_Name": "pushparaj",
+
+    "Folder_Name_Already_Exist_Message": "There's already a folder with this name. Try a different name."
+}
